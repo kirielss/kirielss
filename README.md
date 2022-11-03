@@ -6,7 +6,7 @@
 - I have many simple responsive landing pages on my repositories.
 - I also have good fundamentals on Javascript.
 
-## 🌱 I’m currently learning how to fetch APIs and use async functions
+## 🌱 I’m currently learning functional Javascript
 
 ## 🤝 I love connecting to new people, so feel free to add me on Linkedin!
 - https://www.linkedin.com/in/gabeldantas/
