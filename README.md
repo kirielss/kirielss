@@ -6,7 +6,7 @@
 - I have many simple responsive landing pages on my repositories.
 - I also have good fundamentals on Javascript.
 
-## 🌱 I’m currently learning data structures
+## 🌱 I’m currently learning data structures in Javascript
 
 ## 🤝 I love connecting to new people, so feel free to add me on Linkedin!
 - https://www.linkedin.com/in/gabeldantas/
