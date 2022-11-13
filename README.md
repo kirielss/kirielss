@@ -2,9 +2,9 @@
 
 ## 👀 I’m interested in Computer Science, Games, Manga and Music.
 
-## ⭐ I'm confortable with CSS3 flex and grid displays, hover and animation effects.
+## ⭐ I'm confortable with CSS3 flex/grid and Javascript ES6 Features.
 - I have many simple responsive landing pages on my repositories.
-- I also have good fundamentals on Javascript.
+- I also have good fundamentals on Javascript array methods and DOM manipulation.
 
 ## 🌱 I’m currently learning React
 
