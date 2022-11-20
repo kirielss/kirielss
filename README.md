@@ -6,7 +6,7 @@
 - I have many simple responsive landing pages on my repositories.
 - I also have good fundamentals on Javascript array methods and DOM manipulation.
 
-## 🌱 I’m currently learning React
+## 🌱 I’m currently learning how to build apps from scratch using React
 
 ## 🤝 I love connecting to new people, so feel free to add me on Linkedin!
 - https://www.linkedin.com/in/gabeldantas/
