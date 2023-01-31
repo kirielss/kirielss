@@ -6,6 +6,6 @@
 - I have many simple responsive landing pages on my repositories.
 - I also have good fundamentals on Javascript array methods and DOM manipulation.
 
-## 🌱 I’m currently learning React Components
+## 🌱 I’m currently studying Backend
 ## 🤝 I love connecting to new people, so feel free to add me on Linkedin!
 - https://www.linkedin.com/in/gabeldantas/
