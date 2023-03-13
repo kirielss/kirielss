@@ -3,9 +3,12 @@
 ## 👀 I’m interested in Computer Science, Games, Manga and Music.
 
 ## ⭐ I'm confortable with CSS3 flex/grid and Javascript ES6 Features.
-- I have many simple responsive landing pages on my repositories.
-- I also have good fundamentals on Javascript array methods and DOM manipulation.
+
+## 🔖 I've deployed many projects using React/Tailwind.
+- Check out my curriculum online made using Astro:
+- https://astro-cv-ten.vercel.app/
 
 ## 🌱 I’m currently studying .NET, SQL and Node.js
+
 ## 🤝 I love connecting to new people, so feel free to add me on Linkedin!
 - https://www.linkedin.com/in/gabeldantas/
