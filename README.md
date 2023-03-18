@@ -8,7 +8,7 @@
 - Check them out on my online CV made using Astro:
 - https://astro-cv-ten.vercel.app/
 
-## 🌱 I’m currently studying .NET, SQL and Node.js
+## 🌱 I’m currently studying .NET, PostgreSQL and Data Structures
 
 ## 🤝 I love connecting to new people, so feel free to add me on Linkedin!
 - https://www.linkedin.com/in/gabeldantas/
