@@ -1,4 +1,4 @@
- # 👋 Hi, I’m Gabriel Dantas, a Web Developer
+ # 👋 Hi, I’m Gabriel Dantas, a Full Stack Developer
 
 ## 👀 I’m interested in Computer Science, Games, Manga and Music.
 
