@@ -29,19 +29,9 @@
 
 Hello there!! I am Gabriel [**kiriel**](https://twitter.com/kirielss) Dantas :wave:😎
 
-I am a very passionate person who dives deeply into topics I really care about and don't know when to quit.
- 
-I have a Bachelor’s degree in Human Sciences, previous experience with Law and Psychology, and currently I am pursuing a degree in Computer Science.
-
 I have experience with Front-end development and Back-end web programming. My main knowledge in technologies is centered around **Javascript**, **React**, **C#**, **ASP.NET** and **SQL Server**.
  
-Technologies I am excited to study more about: **Rust**, **Next.js**, **Docker**, **Kubernetes**.
-
-<div align="right" style="margin:auto">
-    <a href="https://wakatime.com/@kirielss">
-        <img width="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=kirielss&theme=transparent&hide_border=true&hide=markdown,html&hide_title=true&line_height=50&langs_count=4&layout=default" alt="Wakatime stats" align="right" />
-    </a>
-</div>
+Also technologies I am excited to study more about: **Rust**, **Next.js**, **Docker** and **Kubernetes**.
 
 My main skills include Object Oriented Programming, Domain-Driven Design and Data Structures & Algorithms knowledge. 
 
