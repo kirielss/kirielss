@@ -27,7 +27,7 @@
 </div>
 
 
-Hello there!! I am Gabriel [**kiriel**](https://twitter.com/kirielss) Dantas :wave:😎
+Hello there!! I am Gabriel [**"Kiriel"**](https://twitter.com/kirielss) Dantas :wave:😎
     
 I am a very passionate person who dives deeply into topics I care about.
 
