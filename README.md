@@ -21,7 +21,7 @@
 
 <div align="right" style="margin:auto">
      <a href="https://github.com/kirielss">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirielss&hide=html,jupyter%20notebook&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=27&langs_count=10&theme=transparent&title_color=4a86d1&custom_title=My%20favorite%20languages"
+        <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirielss&hide=html&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=27&theme=tokyonight&custom_title=My%20favorite%20languages"
        alt="Most used languages" align="right">
     </a>
 </div>
@@ -34,6 +34,12 @@ I have experience with Front-end development and Back-end web programming. My ma
 Also technologies I am excited to study more about: **Rust**, **Next.js**, **Docker** and **Kubernetes**.
 
 My main skills include Object Oriented Programming, Domain-Driven Design and Data Structures & Algorithms knowledge. 
+
+<div align="right" style="margin:auto">
+    <a href="https://github.com/kirielss">
+        <img width="350em" src="https://github-readme-stats.vercel.app/api?username=kirielss&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&custom_title=My%20Github%20Stats" alt="Github stats" align="right" />
+    </a>
+</div>
 
 I am currently building projects as a freelancer _Full Stack Developer_ for the Poinge Developers program. 
     
