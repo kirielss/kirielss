@@ -33,13 +33,15 @@ I am a very passionate person who dives deeply into topics I care about. Books, 
 
 I have a Bachelor’s degree in Human Sciences, previous experience with Law and Psychology, and currently I am pursuing a degree in Computer Science.
 
-I have experience with Front-end development and Back-end web programming. My main knowledge in technologies is centered around **Javascript**, **React**, **C#**, **ASP.NET** and **SQL Server**.
+I have experience with Front-end development and Back-end web programming. I also have experience working with teams in high demands / short deadlines environments.
     
 <div align="right" style="margin:auto">
     <a href="https://github.com/kirielss">
         <img width="350em" src="https://github-readme-stats.vercel.app/api?username=kirielss&theme=highcontrast&show_icons=true&hide_border=true&layout=compact&custom_title=My%20Github%20Stats" alt="Github stats" align="right" />
     </a>
 </div>
+    
+My main knowledge in technologies is centered around **Javascript**, **React**, **C#**, **ASP.NET** and **SQL Server**.
  
 Also technologies I am excited to study more about: **Rust**, **Next.js**, **Docker** and **Kubernetes**.
 
