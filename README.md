@@ -35,13 +35,13 @@ I have a Bachelor’s degree in Human Sciences, previous experience with Law and
 
 I have experience with Front-end development and Back-end web programming. I also have experience working with teams.
     
+My main knowledge in technologies is centered around **Javascript**, **React**, **C#**, **ASP.NET** and **SQL Server**.
+    
 <div align="right" style="margin:auto">
     <a href="https://github.com/kirielss">
         <img width="350em" src="https://github-readme-stats.vercel.app/api?username=kirielss&theme=highcontrast&show_icons=true&hide_border=true&layout=compact&custom_title=My%20Github%20Stats" alt="Github stats" align="right" />
     </a>
 </div>
-    
-My main knowledge in technologies is centered around **Javascript**, **React**, **C#**, **ASP.NET** and **SQL Server**.
  
 Also technologies I am excited to study more about: **Rust**, **Next.js**, **Docker** and **Kubernetes**.
 
