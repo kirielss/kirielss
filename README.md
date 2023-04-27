@@ -8,7 +8,7 @@
 
 <blockquote>
     <p><i>
-        I'm an avid learner. Always searching, always improving. I love to "connect the dots" and find common patterns on different topics. The kind of person who would argue about the similarities between Blade Runner and Plato's Allegory of the Cave. 💻🌀📝
+        I'm an avid learner. Always searching, always improving. I love to "connect the dots" and find common patterns on different topics. Click on the "About me" button to learn more. 💻🌀📝
     </i></p>
 </blockquote>
 </div>
