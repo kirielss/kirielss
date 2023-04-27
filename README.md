@@ -35,7 +35,7 @@ I have a Bachelor’s degree in Human Sciences, previous experience with Law and
 
 I have experience with Front-end development and Back-end web programming. I also have experience working with teams.
     
-My main knowledge in technologies is centered around **Javascript**, **React**, **C#**, **ASP.NET** and **SQL Server**.
+My main knowledge in technologies is centered around **Typescript**, **React**, **C#**, **ASP.NET** and **SQL**. I am also learning **Angular**
     
 <div align="right" style="margin:auto">
     <a href="https://github.com/kirielss">
@@ -43,9 +43,9 @@ My main knowledge in technologies is centered around **Javascript**, **React**, 
     </a>
 </div>
  
-Also technologies I am excited to study more about: **Rust**, **Next.js**, **Docker** and **Kubernetes**.
+Also technologies I am excited to study more about: **Rust**, **Ruby**, **Docker** and **Kubernetes**.
 
-My main skills include Object Oriented Programming, Domain-Driven Design and Data Structures & Algorithms knowledge. 
+My main skills include Object Oriented Programming and Data Structures & Algorithms knowledge. 
 
 
 
